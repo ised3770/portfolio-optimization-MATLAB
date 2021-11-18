@@ -6,7 +6,5 @@ The rates of returns are often not known in advance. We assume in the Markowitz 
 ## Results
 ### Rates of return 
 <p float="left">
-  <img src="/plots/return1.png" width=35% />
-  <img src="/plots/return2.png" width=35% /> 
-  <img src="/plots/return3.png" width=35% /> 
+  <img src="/plots/return1.png" width=35% /> 
 </p>
